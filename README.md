@@ -594,7 +594,7 @@ lets step into this function using `si`:
 ![alt text](imgs/image-22.png)
 
 
-> Don't believe the comment that this is not a caesar cipher.
+> Don't believe the comment, this is not a caesar cipher.
 
 
 we can see that we are now in the `enc_cipher` function.
